@@ -6,3 +6,9 @@ This project focuses on analyzing a retail business sales dataset to uncover key
 - Evaluate sales distribution by product placement
 - Understand customer purchasing patterns
 - Highlight regional performance differences
+## Tools & Skills Used
+- Microsoft Excel
+- Power Query(Data Cleaning)
+- Data Analysis
+- Data Visualization (Dashboard Design)
+- KPI Development
