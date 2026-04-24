@@ -27,3 +27,5 @@ Sales volume (22.17M) is far higher than number of customers (20,207) meaning cu
 - Invest in marketing and distribution in underperforming regions like Brazil.
 - Focus production on high-demand materials such as wool and cotton.
 
+## Dashboard
+<img width="960" height="540" alt="business analysis" src="https://github.com/user-attachments/assets/ecc2d38e-4fa8-4235-87f8-f0c51eb49348" />
