@@ -21,7 +21,9 @@ Sales volume (22.17M) is far higher than number of customers (20,207) meaning cu
 - Jackets generated the highest revenue ($486.8M) compared to others contributing a significant portion of total sales. The business is heavily dependent on one product (Jackets), which is risky. Diversification is needed.
 - Products placed in aisles perform best, not necessarily the front of the store. This could mean that customers may prefer browsing rather than impulse buying.
 - China and India are the top-performing countries in terms of revenue while Brazil shows relatively low performance, presenting a potential growth.
-
-
-
+## Recommendation
+- Reduce over-reliance on jackets by improving other product categories like jeans. This can be done by reassessing pricing, design, or marketing strategies for denim and jeans.
+- Increase focus on aisle and end-cap placements for better sales performance.
+- Invest in marketing and distribution in underperforming regions like Brazil.
+- Focus production on high-demand materials such as wool and cotton.
 
